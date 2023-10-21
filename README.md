@@ -18,6 +18,9 @@ To run the project locally or deploy it, follow these steps:
 
 1.Clone this repository:
   git clone https://github.com/username/weather-application.git
+
+
+      
   _________
 2.Install the required dependencies:
   npm install
